@@ -10,21 +10,32 @@
 ## Basic Steps:
 #### Downloaded the dataset. 
 #### Categorical slicers include State, Zip Code, Company, Complaint ID, Submitted Via, Product, Sub-Product, Issue, Sub-Issue, Company Public Response, Company Response to Customer, Timely Response? Consumer Disputed, Tags, Cons. Consent Provided?, Numerical slicer includes the 'date range' (where you can slide accordingly)
-#### State
-#### Zip Code
-#### Company
-#### Complaint ID
+#### State: A typical U.S. State displayed
+#### Zip Code: Only first 3 digits displayed due to confidentiality purposes
+#### Company: Unique name of company
+#### Complaint ID: Unique Complaint ID assigned to complaint transaction
 #### Submitted Via
+
 #### Product
+
 #### Sub-Product
+
 #### Issue
+
 #### Sub-Issue
+
 #### Complany Public Response
+
 #### Company Response to Customer
+
 #### Timely Response? 
+
 #### Consumer Disputed
+
 #### Tags
+
 #### Cons. Consent Provided?
+
 ##### Date Range:
 ![Customer_Complaints_Slicers](https://user-images.githubusercontent.com/19572673/60402039-bdc86e00-9b57-11e9-8f48-39832bcb0c72.PNG)
 #### Number of Complaints by State
