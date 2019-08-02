@@ -3,7 +3,7 @@
 ![ComplaintsAnalysis](https://user-images.githubusercontent.com/19572673/57265265-cebb9e00-7044-11e9-95f3-ef2625564c23.PNG)
 ## Abstract:
 ## Company Information:
-The Consumer Financial Protection Bureau (CFPB) is an agency of the United States government responsible for consumer protection in the financial sector. CFPB's jurisdiction includes banks, credit unions, securities firms, payday lenders, mortgage-servicing operations, foreclosure relief services, debt collectors and other financial companies operating in the United States.
+The Consumer Financial Protection Bureau (CFPB) is an agency of the United States government responsible for consumer protection in the financial sector. CFPB's jurisdiction includes banks, credit unions, securities firms, payday lenders, mortgage-servicing operations, foreclosure relief services, debt collectors and other financial companies operating in the United States. https://en.wikipedia.org/wiki/Consumer_Financial_Protection_Bureau
 ## Use Case:
 ### Figuring out specific Companies, Products, and Sub-Products with the most number of Complaints
 ## Initial Dataset:
