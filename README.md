@@ -4,7 +4,7 @@
 ## Abstract:
 Each week the American Consumer Financial Protection Bureau (CFPB) sends thousands of consumers’ complaints about financial products and services to companies for response. Those complaints are published here CFPB after the company responds or after 15 days. By adding their voice, consumers help improve the financial marketplace get their voices heard.
 ##### https://www.kaggle.com/cfpb/us-consumer-finance-complaints
-## Industry Information: 
+## Industry: 
 ### Government Administration/Financial Services
 
 ## Company Information:
