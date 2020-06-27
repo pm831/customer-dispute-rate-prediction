@@ -43,8 +43,6 @@ Company: Unique name of company
 
 Complaint ID: Unique Complaint ID assigned to complaint transaction
 
-![Customer_Complaints_TimelyResp](https://user-images.githubusercontent.com/19572673/60405762-42c77d80-9b80-11e9-9181-8429e7692181.PNG)
-
 Submitted Via
 
 Product
