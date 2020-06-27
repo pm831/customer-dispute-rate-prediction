@@ -49,11 +49,7 @@ Submitted Via
 
 Product
 
-![Customer_Complaints_Product](https://user-images.githubusercontent.com/19572673/60405759-422ee700-9b80-11e9-91f4-d82fd5384d77.PNG)
-
 Sub-Product
-
-![Customer_Complaints_SubProduct](https://user-images.githubusercontent.com/19572673/60405760-42c77d80-9b80-11e9-912b-3710cdcfb507.PNG)
 
 Issue: Various issues listed pertaining to complaint
 
@@ -61,24 +57,13 @@ Sub-Issue: Various sub-issues listed pertaining to the issue at hand
 
 Complany Public Response
 
-![Customer_Complaints_COPublicResp](https://user-images.githubusercontent.com/19572673/60405758-422ee700-9b80-11e9-8bef-d0835b5a8e27.PNG)
-
 Company Response to Customer
 
-![Customer_Complaints_COCustomer](https://user-images.githubusercontent.com/19572673/60405755-422ee700-9b80-11e9-9d1f-dcc939fc0c98.PNG)
 Timely Response? 
 
-![Customer_Complaints_TimelyResp](https://user-images.githubusercontent.com/19572673/60405762-42c77d80-9b80-11e9-9181-8429e7692181.PNG)
 Consumer Disputed
 
-![Customer_Complaints_ConsumerDisputed](https://user-images.githubusercontent.com/19572673/60405757-422ee700-9b80-11e9-9f8b-8724fefcf74f.PNG)
-
 Tags
-
-![Customer_Complaints_Tags](https://user-images.githubusercontent.com/19572673/60405761-42c77d80-9b80-11e9-8571-6d3f24798129.PNG)
-Cons. Consent Provided?
-
-![Customer_Complaints_ConsentedProvided](https://user-images.githubusercontent.com/19572673/60405756-422ee700-9b80-11e9-9021-45a2407a4a1f.PNG)
 
 Date Range:
 
