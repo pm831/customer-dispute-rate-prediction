@@ -117,11 +117,18 @@ Complaints Tabular Report
 Python (Jupyter Notebook) Visualizations
 
 ![output_39_0](https://user-images.githubusercontent.com/19572673/85910989-0f99e780-b7f0-11ea-893f-b9aeadc30280.png)
+
 ![output_41_1](https://user-images.githubusercontent.com/19572673/85910990-10327e00-b7f0-11ea-96d2-6d3b74579cbd.png)
+
 ![output_43_1](https://user-images.githubusercontent.com/19572673/85910991-10327e00-b7f0-11ea-91e8-88a04671847e.png)
+
 ![output_45_1](https://user-images.githubusercontent.com/19572673/85910992-10327e00-b7f0-11ea-883e-f2084773cc0a.png)
+
 ![output_84_1](https://user-images.githubusercontent.com/19572673/85910993-10cb1480-b7f0-11ea-8c00-2008a75d9929.png)
+
 ![output_86_0](https://user-images.githubusercontent.com/19572673/85910994-10cb1480-b7f0-11ea-8ca2-e0b20757f984.png)
+
 ![output_104_0](https://user-images.githubusercontent.com/19572673/85910995-10cb1480-b7f0-11ea-84ee-735519623998.png)
+
 ![output_116_0](https://user-images.githubusercontent.com/19572673/85910996-10cb1480-b7f0-11ea-9251-545fc53b0225.png)
 
