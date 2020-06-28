@@ -1,4 +1,4 @@
-# Consumer Complaints Data Exploration
+# Consumer Complaints Dispute Rate Prediction & Data Visualization
 ### Pujan Malavia
 ![cfpb](https://user-images.githubusercontent.com/19572673/62312334-eba51900-b45b-11e9-87f0-ba0e94c8e402.png)
 
@@ -115,3 +115,12 @@ Python (Jupyter Notebook) Visualizations
 
 ![output_116_0](https://user-images.githubusercontent.com/19572673/85910996-10cb1480-b7f0-11ea-9251-545fc53b0225.png)
 
+### Communication of Results to Business Partner:
+To a business partner, I would explain that the Random Forest (all else equal) would work better for complex data (high variance, low bias) that’s a bit more unknown in terms of predictors’ effect on the response variable since it looks at all predictor variables equally in terms of its importance.
+
+### Future Work:
+Continue to do hyperparameter tuning of the model and creating new features/removing old features to help increase the prediction accuracy of the model
+
+Try other types of models to see if the accuracy rate improves
+
+More data visualization/patterns within the dataset (external sources) that can lead to more insights and decision-making from a business perspective
