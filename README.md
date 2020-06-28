@@ -26,8 +26,12 @@ Figuring out specific Companies, Products, and Sub-Products with the most number
 ### Initial Dataset(s):
 Consumer Complaints Classification
 
-## Software:
-PowerBI
+### Software:
+Python, PowerBI
+
+### Techniques:
+
+Random Forest
 
 ### Basic Steps:
 
